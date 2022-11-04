@@ -1,0 +1,5 @@
+TestPersonDao.class
+TestRegistrationServlet.class
+TestNewMedicalVisitServlet.class
+TestLoginServlet.class
+TestMedicalVisitDao.class

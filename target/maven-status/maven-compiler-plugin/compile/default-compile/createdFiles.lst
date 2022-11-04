@@ -1,0 +1,8 @@
+PersonalMedicalHistory\Servlet\LoginServlet.class
+PersonalMedicalHistory\Model\Person.class
+PersonalMedicalHistory\Model\DataSource.class
+PersonalMedicalHistory\Model\PersonDao.class
+PersonalMedicalHistory\Model\MedicalVisitDao.class
+PersonalMedicalHistory\Servlet\RegistrationServlet.class
+PersonalMedicalHistory\Model\MedicalVisit.class
+PersonalMedicalHistory\Servlet\NewMedicalVisitServlet.class
